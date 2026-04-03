@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "s1vinlandsmp.aternos.me",
-    "port":13076,
+    "port": 13076,
     "version": "1.21.11"
   },
   "position": {
